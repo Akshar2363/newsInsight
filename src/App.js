@@ -15,12 +15,6 @@ export default class App extends Component {
 //If API doesn't work, other API is REACT_APP_API_KEY2
  apikey=process.env.REACT_APP_API_KEY;
  pageSize = 12;
- 
- 
- 
- 
- 
- 
  render() {
   
    
